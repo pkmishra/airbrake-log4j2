@@ -1,5 +1,7 @@
 airbrake-log4j2
 ================
+> Airbrake has also published offcial client which can be found [here](https://github.com/airbrake/log4javabrake2)
+
 [![Build Status](https://travis-ci.org/pkmishra/airbrake-log4j2.svg?branch=master)](https://travis-ci.org/pkmishra/airbrake-log4j2)
 [![codecov](https://codecov.io/gh/pkmishra/airbrake-log4j2/branch/master/graph/badge.svg)](https://codecov.io/gh/pkmishra/airbrake-log4j2)
 log4j2 Appender for Airbrake
